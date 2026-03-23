@@ -1,4 +1,32 @@
-# Windows 11 Optimizer
+<div align="center">
+
+# :zap: Windows 11 Optimizer
+
+[![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?logo=windows11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
+[![PowerShell 5.1+](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell/)
+[![License: MIT](https://img.shields.io/github/license/Ublaze/Windows11-Optimizer)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/Ublaze/Windows11-Optimizer?style=social)](https://github.com/Ublaze/Windows11-Optimizer/stargazers)
+
+**Debloat, speed up, and lock down Windows 11 — in one script.**
+
+</div>
+
+---
+
+<details>
+<summary><strong>Table of Contents</strong></summary>
+
+- [What It Does](#what-it-does)
+- [Quick Start](#quick-start)
+- [One-Liner (Download & Run)](#one-liner-download--run)
+- [Options](#options)
+- [What Gets Disabled](#what-gets-disabled)
+- [Safety](#safety)
+- [Before & After](#before--after)
+- [Requirements](#requirements)
+- [License](#license)
+
+</details>
 
 A safe, all-in-one PowerShell script to optimize Windows 11 for better performance, reduced bloat, and improved privacy.
 
@@ -101,3 +129,11 @@ The script displays a comparison at the end:
 ## License
 
 MIT License - see [LICENSE](LICENSE)
+
+---
+
+<div align="center">
+
+If this script saved you time, consider giving it a :star: — it helps others find it!
+
+</div>
