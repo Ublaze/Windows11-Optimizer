@@ -1,6 +1,54 @@
-# Windows 11 Optimizer
+<p align="center">
+  <img src="assets/banner.svg" alt="Windows 11 Optimizer" width="100%">
+</p>
 
-A safe, all-in-one PowerShell script to optimize Windows 11 for better performance, reduced bloat, and improved privacy.
+<p align="center">
+  <strong>Debloat, speed up, and lock down Windows 11 — in one script.</strong>
+</p>
+
+<p align="center">
+  <a href="#quick-start"><img src="https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"></a>
+  <a href="https://docs.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5.1+-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
+  <a href="https://github.com/Ublaze/Windows11-Optimizer/stargazers"><img src="https://img.shields.io/github/stars/Ublaze/Windows11-Optimizer?style=flat-square" alt="Stars"></a>
+</p>
+
+---
+
+<details>
+<summary><strong>Table of Contents</strong></summary>
+
+- [Why This Over Alternatives?](#why-this-over-alternatives)
+- [What It Does](#what-it-does)
+- [Quick Start](#quick-start)
+- [One-Liner (Download & Run)](#one-liner-download--run)
+- [Options](#options)
+- [What Gets Disabled](#what-gets-disabled)
+- [Safety](#safety)
+- [Before & After](#before--after)
+- [Requirements](#requirements)
+- [Contributing](#contributing)
+- [License](#license)
+
+</details>
+
+One script handles everything you'd normally spend an afternoon tweaking. No registry editors, no hunting through settings, no third-party bloatware removers.
+
+## Why This Over Alternatives?
+
+| Feature | Windows 11 Optimizer | Chris Titus WinUtil | Sophia Script | O&O ShutUp10 |
+|---------|:---:|:---:|:---:|:---:|
+| Single script, no install | Yes | - | - | - |
+| Auto restore point | Yes | - | Yes | - |
+| Disk cleanup | Yes | - | - | - |
+| Startup optimization | Yes | Yes | - | - |
+| Service debloating | Yes | Yes | Yes | - |
+| Privacy/telemetry | Yes | Yes | Yes | Yes |
+| Network optimization | Yes | - | - | - |
+| Security scan | Yes | - | - | - |
+| Silent mode | Yes | - | Partial | - |
+| Before/after comparison | Yes | - | - | - |
+| Open source | MIT | MIT | MIT | - |
 
 ## What It Does
 
@@ -98,6 +146,18 @@ The script displays a comparison at the end:
 - PowerShell 5.1+
 - Administrator privileges
 
+## Contributing
+
+Want to add a new optimization or fix a bug? Check out [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
 ## License
 
 MIT License - see [LICENSE](LICENSE)
+
+---
+
+<div align="center">
+
+If this script saved you time, consider giving it a :star: — it helps others find it!
+
+</div>
