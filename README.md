@@ -81,7 +81,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 ## One-Liner (Download & Run)
 
 ```powershell
-irm "https://raw.githubusercontent.com/Ublaze/Windows11-Optimizer/master/Windows11_Optimizer.ps1" -OutFile "$env:TEMP\Win11Opt.ps1"; Start-Process powershell -Verb RunAs -ArgumentList "-ExecutionPolicy Bypass -File $env:TEMP\Win11Opt.ps1"
+irm "https://raw.githubusercontent.com/Ublaze/Windows11-Optimizer/master/Windows11_Optimizer.ps1" -OutFile "$env:TEMP\Win11Opt.ps1"; Start-Process powershell -Verb RunAs -ArgumentList "-ExecutionPolicy Bypass -File `"$env:TEMP\Win11Opt.ps1`""
 ```
 
 ## Options
